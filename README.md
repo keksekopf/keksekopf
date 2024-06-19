@@ -3,6 +3,8 @@
 <!--
 **keksekopf/keksekopf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![artworks-9Rkrz3PTIAN64tPg-mZqYBg-t240x240](https://github.com/keksekopf/keksekopf/assets/120566205/3d96a7e9-8fa7-4fcd-9daf-45ca478311d3)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
